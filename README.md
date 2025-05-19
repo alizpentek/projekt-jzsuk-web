@@ -1,7 +1,7 @@
 Beindit projekt:
 
-``npm init -y
-npm install express serialport socket.io``
+``npm init -y``
+``npm install express serialport socket.io``
 
 
 Elindit server:
